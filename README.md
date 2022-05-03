@@ -22,6 +22,5 @@ Here are some ideas to get you started:
  
  <h2>📫 How to reach me:</h2>
  <a href="https://www.linkedin.com/in/sauhar-khanal-87b058199"><img src="https://1000logos.net/wp-content/uploads/2017/03/Color-of-the-LinkedIn-Logo.jpg" width="40" /></a>
-<a href="https://www.facebook.com/sauhark"><img src="https://1000logos.net/wp-content/uploads/2016/11/fb-logo.jpg" width="60" /></a>
 
 </div>
