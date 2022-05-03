@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 
-<img src="https://github.com/sauhar/sauhark/blob/master/clock.gif" height="332px" width="356px" />
+<img src="https://github.com/sauhar/sauhar/blob/master/clock.gif" height="332px" width="356px" />
 <h2>- PASSIONATE - PERSISTENT - CREATIVE - </h2>
  
  <h2>📫 How to reach me:</h2>
