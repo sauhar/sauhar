@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 
-<img src="https://media1.tenor.com/m/NOYF3f82b_gAAAAd/programmer.gif" />
+<img src="https://cdn.dribbble.com/userupload/22906166/file/original-ffcac8e074af7de5e6ac6db9873dff66.gif" />
 <h2>- PASSIONATE - PERSISTENT - CREATIVE - </h2>
  
  <h2>📫 How to reach me:</h2>
