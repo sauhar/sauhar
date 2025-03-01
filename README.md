@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 
-<img src="https://tenor.com/view/programmer-gif-19019116" height="332px" width="356px" />
+<img src="https://media1.tenor.com/m/NOYF3f82b_gAAAAd/programmer.gif" height="332px" width="356px" />
 <h2>- PASSIONATE - PERSISTENT - CREATIVE - </h2>
  
  <h2>📫 How to reach me:</h2>
