@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 
-<img src="[https://github.com/sauhar/sauhar/blob/master/clock.gif](https://cdn-icons-png.flaticon.com/512/5072/5072860.png)" height="332px" width="356px" />
+<img src="https://cdn-icons-png.flaticon.com/512/5072/5072860.png" height="332px" width="356px" />
 <h2>- PASSIONATE - PERSISTENT - CREATIVE - </h2>
  
  <h2>📫 How to reach me:</h2>
