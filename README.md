@@ -34,8 +34,8 @@ Here are some ideas to get you started:
 ###
 
 ###
-<h2 align="left" class="heading-element" dir="auto">Languages and Tools:</h2>
-<div align="left">
+<h2 align="center" class="heading-element" dir="auto">Languages and Tools:</h2>
+<div align="center">
   <a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <a href="https://www.postgresql.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" height="30" alt="postgresql logo"  />
