@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> Hi there! I am Sauhar Khanal <img src="https://media.giphy.com/media/Xzd3IrFzLskG3ermeJ/giphy.gif"  width="30px" /> </h1>
+  <h1> Hi there! I am Sauhar Khanal <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTlyenJxYWQ1dHhmeHowbmM3aG9ncmV1NjJqNmFjdWZpdDl4dmpsMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HscDLzkO8EOTmgkhQP/giphy.gif"  width="35px" /> </h1>
 
 <!--
 **sauhark/sauhark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,10 +17,40 @@ Here are some ideas to get you started:
 -->
 
 
-<img src="https://cdn.dribbble.com/userupload/22906166/file/original-ffcac8e074af7de5e6ac6db9873dff66.gif" height="405px" width="475px" />
+<img src="https://cdn.dribbble.com/userupload/22906166/file/original-ffcac8e074af7de5e6ac6db9873dff66.gif" height="325px" width="425px" />
 <h2>- PASSIONATE - PERSISTENT - CREATIVE - </h2>
  
- <h2>📫 How to reach me:</h2>
- <a href="https://www.linkedin.com/in/sauhar-khanal-87b058199"><img src="https://1000logos.net/wp-content/uploads/2017/03/Color-of-the-LinkedIn-Logo.jpg" width="40" /></a>
+ <h2>📫 How to reach me:
+ <a href="https://www.linkedin.com/in/sauhar-khanal-87b058199"><img src="https://1000logos.net/wp-content/uploads/2017/03/Color-of-the-LinkedIn-Logo.jpg" width="35" style="margin-right: 8px;"  /></a>  </h2>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sauhar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sauhar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://www.php.net//images/logos/new-php-logo.svg" height="30" alt="php logo"  />
+</div>
+
+###
+
+
+<br clear="both">
+
+
+###
 
 </div>
