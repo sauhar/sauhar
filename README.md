@@ -42,6 +42,8 @@ Here are some ideas to get you started:
   <img width="12" />
   <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="30" alt="mysql logo"  />
   <img width="12" />
+  <a href="https://aws.amazon.com/redshift/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Amazon-Redshift-Logo.svg/150px-Amazon-Redshift-Logo.svg.png" height="30" alt="amazon redshift logo"  />
+  <img width="12" />
   <a href="https://dbeaver.io/"><img src="https://imgs.search.brave.com/vtwcXH-Rd5Lzz2xy7pE7ynM7rOuWRcTTdiHHV-BOakg/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy9i/L2I1L0RCZWF2ZXJf/bG9nby5zdmc" height="30" alt="dbeaver logo"  />
   <img width="12" />
   <a href="https://jupyter.org/"><img src="https://imgs.search.brave.com/TchlXK1tJhz2ck4gsegslVI-2FwUit2egtNFiFRiMwU/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly93d3cu/bmljZXBuZy5jb20v/cG5nL2RldGFpbC83/MC03MDE5OTlfanVw/eXRlci1sb2dvLnBu/Zw" height="30" 
