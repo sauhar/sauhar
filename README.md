@@ -44,6 +44,7 @@ Here are some ideas to get you started:
   <a href="https://www.w3.org/html/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" /></a>
   <a href="https://www.javascript.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" /></a>
   <a href="https://www.php.net/"><img src="https://www.php.net//images/logos/new-php-logo.svg" height="30" alt="php logo" /></a>
+   <a href="https://excel.cloud.microsoft/en-us/"><img src="https://imgs.search.brave.com/QW_hMtgaySzr90GELg2nFwPIB7uQz-aaYQ9gvToQl5E/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9sb2dv/ZG93bmxvYWQub3Jn/L3dwLWNvbnRlbnQv/dXBsb2Fkcy8yMDIw/LzA0L2V4Y2VsLWxv/Z28ucG5n" height="30" alt="Excel logo" /></a>
 </div>
 
 
