@@ -40,11 +40,12 @@ Here are some ideas to get you started:
   <a href="https://dbeaver.io/"><img src="https://imgs.search.brave.com/vtwcXH-Rd5Lzz2xy7pE7ynM7rOuWRcTTdiHHV-BOakg/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy9i/L2I1L0RCZWF2ZXJf/bG9nby5zdmc" height="30" alt="dbeaver logo" /></a>
   <a href="https://jupyter.org/"><img src="https://imgs.search.brave.com/TchlXK1tJhz2ck4gsegslVI-2FwUit2egtNFiFRiMwU/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly93d3cu/bmljZXBuZy5jb20v/cG5nL2RldGFpbC83/MC03MDE5OTlfanVw/eXRlci1sb2dvLnBu/Zw" height="30" alt="jupyter notebook logo" /></a>
   <a href="https://code.visualstudio.com/"><img src="https://imgs.search.brave.com/DYf_5lkP3ds1GnMFlU93-ggc4mvthxdgIXvLqgKd4bw/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy85/LzlhL1Zpc3VhbF9T/dHVkaW9fQ29kZV8x/LjM1X2ljb24uc3Zn" height="30" alt="visualstudio logo" /></a>
-  <a href="https://aws.amazon.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="30" alt="amazon web services logo" /></a>
-  <a href="https://www.w3.org/html/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" /></a>
-  <a href="https://www.javascript.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" /></a>
-  <a href="https://www.php.net/"><img src="https://www.php.net//images/logos/new-php-logo.svg" height="30" alt="php logo" /></a>
+  <a href="https://azure.microsoft.com/en-us"><img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" height="30" alt="microsoft azure logo" /></a>
+  <a href="https://www.databricks.com/"><img src="https://imgs.search.brave.com/dOmEHhoaUNRQCuYMhYYcZFBPxvfX9fYc6W6yBqftvrQ/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/dmFyb25pcy5jb20v/aHViZnMvMjAyNCUy/MFdlYnNpdGUlMjBS/ZWRlc2lnbi8wNF9D/b3ZlcmFnZSUyMExv/Z29zL0ludGVncmF0/aW9ucyUyMERpYWdy/YW0lMjBJY29ucy9E/YXRhYnJpY2tzJTIw/bG9nby5zdmc" height="30" alt="databricks logo" /></a>
    <a href="https://excel.cloud.microsoft/en-us/"><img src="https://imgs.search.brave.com/QW_hMtgaySzr90GELg2nFwPIB7uQz-aaYQ9gvToQl5E/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9sb2dv/ZG93bmxvYWQub3Jn/L3dwLWNvbnRlbnQv/dXBsb2Fkcy8yMDIw/LzA0L2V4Y2VsLWxv/Z28ucG5n" height="30" alt="Excel logo" /></a>
+  <a href="https://learn.microsoft.com/en-us/sql/integration-services/sql-server-integration-services?view=sql-server-ver17"><img src="https://imgs.search.brave.com/0TCkTQxfQA_UG1YOfonsU9Y_piOuNHJy7bhJhq9wJaE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/cHJvZC53ZWJzaXRl/LWZpbGVzLmNvbS82/ODdiMmQxNjE0NWIz/NjAxYTIyN2M1NjAv/NjhkMmI2NjUyY2U5/YzFiNGJlMWJlODZi/XzY4Y2U4NzNiNzE1/YzA3YTk1NTJkNTY4/N182OGMwMTI3Mzgx/ZGY2YTI3ODI0ODZl/MWJfMjAyNS0wOS0w/OVQxMS0zNC00My03/OTRaLWE0MDcwYWI3/Y2Y0ODhjYmM4OWNj/NmRlZDhjNmFmMTBl/LnBuZw" height="30" alt="SSIS logo" /></a>
+   <a href="https://learn.microsoft.com/en-us/sql/reporting-services/create-deploy-and-manage-mobile-and-paginated-reports?view=sql-server-ver17"><img src="https://imgs.search.brave.com/nK9-2hkrQzf7Qay8OKECzpSoJiuTumyNszyyCPl2Gvo/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9sb2dv/ZGl4LmNvbS9sb2dv/LzgyMzM4OS5wbmc" height="30" alt="SSRS logo" /></a>
+  
 </div>
 
 
